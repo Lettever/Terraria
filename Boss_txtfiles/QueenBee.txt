@@ -1,0 +1,115 @@
++------------------------------+-----------------+
+|   Running Queen Bee total:   | 11              |
+|   Running total:             | 03p 17g 12s 48c |
+|   Running average:           | 00p 28g 82s 95c |
++------------------------------+-----------------+
+|   1:                         | 00p 15g 94s 12c |
+|      Bees Knees              | 00p 02g 53s 16c |
+|      Hive Wand               | 00p 00g 63s 29c |
+|      Bee Shirt               | 00p 00g 63s 29c |
+|      Honey Comb              | 00p 03g 34s 80c |
+|      28 Beenades             | 00p 01g 77s 24c |
+|      19 Bee Wax              | 00p 01g 20s 27c |
+|      Hive Pack               | 00p 03g 64s 55c |
+|      Total:                  | 00p 29g 70s 72c |
++------------------------------+-----------------+
+|   2:                         | 00p 12g 25s 00c |
+|      Bee Keeper              | 00p 02g 53s 16c |
+|      Hive Wand               | 00p 00g 63s 29c |
+|      Bee Pants               | 00p 00g 63s 29c |
+|      Honeyed Goggles         | 00p 06g 32s 91c |
+|      14 Beenades             | 00p 00g 88s 62c |
+|      24 Bee Wax              | 00p 01g 51s 92c |
+|      Queen Bee Mask          | 00p 00g 94s 93c |
+|      Hive Pack               | 00p 03g 64s 55c |
+|      Total:                  | 00p 29g 37s 67c |
++------------------------------+-----------------+
+|   3:                         | 00p 19g 19s 00c |
+|      Bee Keeper              | 00p 02g 53s 16c |
+|      Hive Wand               | 00p 00g 63s 29c |
+|      Bee Shirt               | 00p 00g 63s 29c |
+|      26 Beenades             | 00p 01g 64s 58c |
+|      21 Bee Wax              | 00p 01g 32s 93c |
+|      Hive Pack               | 00p 02g 53s 16c |
+|      Total:                  | 00p 28g 44s 31c |
++------------------------------+-----------------+
+|   4:                         | 00p 14g 87s 50c |
+|      Bees Knees              | 00p 02g 41s 89c |
+|      Hive Wand               | 00p 00g 63s 29c |
+|      Bee Shirt               | 00p 00g 63s 29c |
+|      19 Beenades             | 00p 01g 20s 27c |
+|      26 Bee_Wax              | 00p 01g 64s 58c |
+|      Hive Pack               | 00p 03g 64s 55c |
+|      Total:                  | 00p 25g 05s 37c |
++------------------------------+-----------------+
+|   5:                         | 00p 12g 50s 00c |
+|      Bees Knees              | 00p 02g 82s 15c |
+|      Hive Wand               | 00p 00g 63s 29c |
+|      Bee Shirt               | 00p 00g 63s 29c |
+|      Honeyed Goggles         | 00p 06g 32s 91c |
+|      24 Beenades             | 00p 01g 51s 92c |
+|      21 Bee_Wax              | 00p 01g 32s 93c |
+|      Hive Pack               | 00p 03g 06s 33c |
+|      Total:                  | 00p 28g 82s 82c |
++------------------------------+-----------------+
+|   6:                         | 00p 12g 33s 75c |
+|      Bees Knees              | 00p 02g 53s 16c |
+|      Hive Wand               | 00p 00g 63s 29c |
+|      Bee_Pants               | 00p 00g 63s 29c |
+|      Honey Comb              | 00p 03g 34s 80c |
+|      Honeyed_Goggles         | 00p 06g 32s 91c |
+|      21 Beenades             | 00p 01g 32s 93c |
+|      21 Bee_Wax              | 00p 01g 32s 93c |
+|      Hive Pack               | 00p 03g 06s 33c |
+|      Total:                  | 00p 31g 53s 39c |
++------------------------------+-----------------+
+|   7:                         | 00p 13g 91s 50c |
+|      Bees Knees              | 00p 01g 17s 06c |
+|      Hive Wand               | 00p 00g 63s 29c |
+|      Bee Hat                 | 00p 00g 63s 29c |
+|      Honey Comb              | 00p 02g 53s 16c |
+|      16 Beenades             | 00p 01g 01s 28c |
+|      17 Bee_Wax              | 00p 01g 07s 61c |
+|      Hive Pack               | 00p 02g 53s 16c |
+|      Total:                  | 00p 23g 50s 35c |
++------------------------------+-----------------+
+|   8:                         | 00p 13g 25s 00c |
+|      Bee Gun                 | 00p 03g 70s 63c |
+|      Hive Wand               | 00p 00g 63s 29c |
+|      Bee Hat                 | 00p 00g 63s 29c |
+|      Honey Comb              | 00p 03g 06s 33c |
+|      20 Beenades             | 00p 01g 26s 60c |
+|      26 Bee Wax              | 00p 01g 64s 58c |
+|      Hive Pack               | 00p 03g 06s 33c |
+|      Total:                  | 00p 27g 27s 52c |
++------------------------------+-----------------+
+|   9:                         | 00p 14g 62s 50c |
+|      Bee Gun                 | 00p 02g 53s 16c |
+|      Hive Wand               | 00p 00g 63s 29c |
+|      Bee Hat                 | 00p 00g 63s 29c |
+|      15 Beenades             | 00p 00g 94s 95c |
+|      25 Bee Wax              | 00p 01g 58s 25c |
+|      Hive Pack               | 00p 02g 53s 16c |
+|      Total:                  | 00p 23g 48s 60c |
++------------------------------+-----------------+
+|   10:                        | 00p 16g 20s 00c |
+|      Bees Knees              | 00p 07g 84s 42c |
+|      Hive Wand               | 00p 00g 63s 29c |
+|      Bee Shirt               | 00p 00g 63s 29c |
+|      Honeyed Goggles         | 00p 06g 32s 91c |
+|      28 Beenades             | 00p 01g 77s 24c |
+|      23 Bee Wax              | 00p 01g 45s 59c |
+|      Hive Pack               | 00p 03g 06s 33c |
+|      Total:                  | 00p 37g 83s 07s |
++------------------------------+-----------------+
+|   11:                        | 00p 15g 66s 87c |
+|      Bee Keeper              | 00p 02g 53s 16c |
+|      Hive Wand               | 00p 00g 63s 29c |
+|      Bee Hat                 | 00p 00g 63s 29c |
+|      Honeyed Goggles         | 00p 06g 32s 91c |
+|      17 Beenades             | 00p 01g 07s 61c |
+|      19 Bee Wax              | 00p 01g 20s 27c |
+|      Queen Bee Mask          | 00p 00g 94s 93c |
+|      Hive Pack               | 00p 03g 06s 33c |
+|      Total:                  | 00p 32g 08s 66c |
++------------------------------+-----------------+
