@@ -103,7 +103,7 @@ i64 print_accessories_option()
 {
     string names[] = 
     {
-        "None", "Hard", "Jagged", "Brisk", "Wild", "Guardind", "Precise",
+        "None", "Hard", "Jagged", "Brisk", "Wild", "Guarding", "Precise",
         "Spiked", "Fleeting", "Rash", "Armored", "Angry", "Hasty",
         "Interpid", "Arcane", "Warding", "Lucky", "Menacing", "Quick", "Violent"
     };
@@ -223,4 +223,9 @@ char get_option(string item_name)
             printf("ERROR: Invalid option\n");
     }while(option != 'y' && option != 'n');
     return option;
+}
+
+u64 string_to_u64(string str, bool stop_at_letters)
+{
+	
 }
