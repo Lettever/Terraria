@@ -66,7 +66,7 @@ int main()
     g = validate_i64("g", 0, 99);
     s = validate_i64("s", 0, 99);
     c = validate_i64("c", 0, 99);
-
+    
     fprintf(file_pointer, "| Queen Bee %i:                   | %02ip %02ig %02is %02ic |\n", ++current_queen_bee, p, g, s, c);
     printf("Bee's Knees? (y/n): ");
     scanf(" %c", &item_option);

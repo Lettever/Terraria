@@ -58,7 +58,7 @@ union
 	};
 	modifier array[15];
 }const universal = 
-{
+	{
 	.none = {.name = "None", .value = 10000llu}, .broken = {.name = "Broken", .value = 3136llu},
 	.shoddy = {.name = "Shoddy", .value = 5852llu}, .weak = {.name = "Weak", .value = 5852llu},
 	.damaged = {.name = "Damaged", .value = 7225llu}, .keen = {.name = "Keen", .value = 11236llu},
@@ -163,7 +163,7 @@ u64 accessory_options()
 	u64 i;
 	printf("Accessory:\n");
 	for(i = 0; i < 20; i++)
-		printf("\t%i: %s\n", i, accessory.array[i].name);
+		printf("\t%2llu: %s\n", i, accessory.array[i].name);
 	return i;
 }
 u64 universal_options()
@@ -171,7 +171,7 @@ u64 universal_options()
 	u64 i;
 	printf("Universal\n");
 	for(i = 0; i < 15; i++)	
-		printf("\t%i: %s\n", i, universal.array[i].name);
+		printf("\t%2llu: %s\n", i, universal.array[i].name);
 	return i;
 }
 u64 common_options()
@@ -179,7 +179,7 @@ u64 common_options()
 	u64 i;
 	printf("Common:\n");
 	for(i = 0; i < 11; i++)	
-		printf("\t%i: %s\n", i, common.array[i].name);
+		printf("\t%2llu: %s\n", i, common.array[i].name);
 	return i;
 }
 u64 melee_options()
@@ -187,7 +187,7 @@ u64 melee_options()
 	u64 i;
 	printf("Melee\n");
 	for(i = 0; i < 17; i++)	
-		printf("\t%i: %s\n", i, melee.array[i].name);
+		printf("\t%2llu: %s\n", i, melee.array[i].name);
 	return i;
 }
 u64 ranged_options()
@@ -195,7 +195,7 @@ u64 ranged_options()
 	u64 i;
 	printf("Ranged:\n");
 	for(i = 0; i < 13; i++)	
-		printf("\t%i: %s\n", i, ranged.array[i].name);
+		printf("\t%2llu: %s\n", i, ranged.array[i].name);
 	return i;
 }
 u64 magic_summoning_options()
@@ -203,7 +203,7 @@ u64 magic_summoning_options()
 	u64 i;
 	printf("Magic/Summoning:\n");
 	for(i = 0; i < 13; i++)	
-		printf("\t%i: %s\n", i, magic_summoning.array[i].name);
+		printf("\t%2llu: %s\n", i, magic_summoning.array[i].name);
 	return i;
 }
 
@@ -226,10 +226,6 @@ u64 validade_option(string name, u64 min, u64 max)
 			printf("ERROR: Number out of bounds\n");
 	}while(result < min || result > max);
 	return result;
-}
-string get_file_name()
-{
-	
 }
 u64 print_to_file(file file, item item, u64 (*func_ptr)(), u64 happiness_modifier)
 {
